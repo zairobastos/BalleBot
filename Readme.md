@@ -16,7 +16,7 @@
 ## :nerd_face: Aprendizados
 O que eu aprendi e coloquei em prática, com o desenvolvimento dessa landing page:
  - Divisão do html (header, nav, main e footer);
- - Utilização de fontes externas (Righteous e Sarala);
+ - Utilização de fontes externas :link: ([Righteous](https://fonts.google.com/specimen/Righteous?query=right) e [Sarala](https://fonts.google.com/specimen/Sarala?query=sarala));
  - Hover no button;
  - First-Mobile.
 
