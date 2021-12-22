@@ -1,0 +1,8 @@
+footer{
+    margin-bottom: 1rem;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 1rem;
+}

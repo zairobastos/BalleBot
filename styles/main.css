@@ -37,10 +37,49 @@ main .adicionar div button{
     border-radius: 20px;
     
     font-family: 'Sarala', sans-serif;
-    font-size: 24px;
-    line-height: 39px;
+    font-size: 1.5rem;
+    line-height: 2.438rem;
     text-align: center;
     font-weight: 400;
 
     color: #2F2325;
+}
+
+main .adicionar div button:hover{
+    background-color: rgba(236,214,196,0.53);
+}
+
+/*Parte 2 do estilo*/
+
+main .descricao{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 6.25rem;
+}
+main .descricao h3{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    color: #FFF2E7;
+    font-size: 1.5rem;
+    line-height: 1.875rem;
+
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 1rem;
+}
+main .descricao ol{
+    list-style: none;
+    margin-top: 2rem;
+}
+main .descricao ol li{
+    text-align: center;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 1.125rem;
+    color: #ECD6C4;
+    line-height: 1.875rem;
+}
+main .descricao ol li span{
+    font-weight: 700;
 }
