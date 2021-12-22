@@ -1,0 +1,46 @@
+main .adicionar{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 6.125rem;
+    margin-bottom: 3.125rem;
+}
+
+main .adicionar div{
+    padding-top: 5.875rem;
+}
+
+main .adicionar div h2{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 4rem;
+    line-height: 5rem;
+    color: #FFF2E7;
+}
+
+main .adicionar div p{
+    font-family: 'Sarala', sans-serif;
+    color: #ECD6C4;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 2.438rem;
+}
+
+main .adicionar div button{
+    width: 11.563rem;
+    height: 4.188rem;
+    margin-top: 2.125rem;
+
+    background: #ECD6C4;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    
+    font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    line-height: 39px;
+    text-align: center;
+    font-weight: 400;
+
+    color: #2F2325;
+}
