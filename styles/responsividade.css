@@ -16,22 +16,37 @@
   }
 }
 
-@media (min-width: 700px) {
-  header .menu {
-    display: none;
-  }
-}
-
 @media (max-width: 700px) {
-  header nav a {
+  header nav {
     display: none;
   }
-  header .menu {
+  header .aparece {
     color: #ecd6c4;
+    display: block;
   }
   header {
     justify-content: space-between;
     padding: 0px 50px 0px 50px;
+  }
+  .menuMobile {
+    height: 100vh;
+    align-items: flex-start;
+    padding-top: 17px;
+    position: fixed;
+    z-index: 30000;
+    background-color: #2f2325;
+  }
+  .menuMobile .close {
+    margin-top: 20px;
+  }
+  .menuMobile nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+  }
+  .menuMobile nav a {
+    font-size: 1.5rem;
   }
 }
 
