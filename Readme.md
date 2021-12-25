@@ -6,6 +6,8 @@
 ## :camera_flash: Versão Desktop da Landing Page
 ![Imagem](images/ezgif.com-gif-maker.gif)
 
+## :camera_flash: Versão Mobile da Landing Page
+![Imagem](images/mobile.gif)
 ## :hammer_and_wrench: Tecnologias utilizadas
  Foram utilizadas as segintes ferramentas no desenvolvimento:
  - HTML
